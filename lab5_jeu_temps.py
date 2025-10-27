@@ -1,3 +1,8 @@
+"utilisation de chatgpt pour corriger les erreurs de syntaxe, corriger les bugs et les erreurs, modification mineures"
+"prompt: depuis je rencontre une erreur de syntaxe dans le code suivant, comment la corriger"
+"le code au moment de run rencontre toujours la même erreur de syntaxe, peux tu corriger le code et me le renvoyer"
+"modifie et retire toute les lignes qui ne sont pas necessaires au bon fonctionnement du code"
+
 import machine
 import time
 

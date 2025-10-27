@@ -1,0 +1,8 @@
+=== LOG DU JEU DE PERCEPTION DU TEMPS ===
+Créé le: 2025-10-27 17:19:53
+
+Essai 1: 2.00 secondes (debut=2024-12-19 14:30:02, fin=2024-12-19 14:30:04)
+Essai 2: 1.00 secondes (debut=2024-12-19 14:30:06, fin=2024-12-19 14:30:07)
+Essai 3: 3.00 secondes (debut=2024-12-19 14:30:10, fin=2024-12-19 14:30:13)
+Essai 4: 3.00 secondes (debut=2024-12-19 14:30:15, fin=2024-12-19 14:30:18)
+Essai 5: 2.00 secondes (debut=2024-12-19 14:30:21, fin=2024-12-19 14:30:23)
